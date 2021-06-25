@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">GupShup</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="conform_password">Confirm Password</string>
+    <string name="enter_N">Enter Name</string>
+    <string name="enter_Name">Enter Name</string>
+    <string name="EnterCo">Enter Confirm Password</string>
+    <string name="E">Enter Confirm Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="enter_correct_email">Enter Correct Email</string>
+    <string name="password_mismatch">Password Mismatch</string>
+    <string name="registraion_successfully">Registration_Successfully</string>
+    <string name="signup_failed">Signup Failed</string>
+    <string name="signup_faileds">Signup Faileds</string>
+    <string name="user_created_successfully">user created successfully</string>
+    <string name="signup_fails">\"Signup Failed :%1$s \"</string>
+    <string name="failed_to_update_profile">failed to update profile %1$s</string>
+    <string name="permission_required">permission required</string>
+    <string name="sava">Save</string>
+    <string name="logout">LogOut</string>
+    <string name="change_picture">change_picture</string>
+    <string name="change_pic">Change Picture</string>
+    <string name="remove_picture">Remove Picture</string>
+    <string name="photo_removed_successfully">Photo_Removed_Successfully</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="reset_password_instruction">Reset Password Instruction has been sent on email:%1$s</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+    <string name="email_sent_failed">Email sent failed</string>
+    <string name="emails_sent_failed">Email Sent Failed:%1$s</string>
+    <string name="resend_timer">Resend in:%1$s</string>
+    <string name="loading">Loading</string>
+    <string name="loadings">Please Wait</string>
+    <string name="chat">Chat</string>
+    <string name="request">Requests</string>
+    <string name="find">Find</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_chat_list">"Chat list will appear here "</string>
+    <string name="empty_friends_list">Friends list will appear here</string>
+    <string name="empty_requests_list">Friends requests will appear here</string>
+</resources>

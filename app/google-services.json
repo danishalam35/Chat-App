@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127171250563",
+    "firebase_url": "https://gupsup-132da.firebaseio.com",
+    "project_id": "gupsup-132da",
+    "storage_bucket": "gupsup-132da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127171250563:android:bada5ce3e0563db2188eb6",
+        "android_client_info": {
+          "package_name": "com.example.gupsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127171250563-nmddfjunh4ejhd4nj17v8tlovc2n2vks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gupsup",
+            "certificate_hash": "1bc96218dc05bf4669093d2adc77a8233b120eb8"
+          }
+        },
+        {
+          "client_id": "127171250563-dvtmka8l816f3v9iipq61febjc653tu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMzjB_pykxU2As64JZ2wK6N8v8nVxT_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127171250563-dvtmka8l816f3v9iipq61febjc653tu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
